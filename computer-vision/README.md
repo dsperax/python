@@ -16,11 +16,11 @@
 
 ### 📍 Chrome Dinosaur Controller
 
-- 📦 [Script](https://github.com/lucasbivar/computer-vision/blob/main/projects/dinosaur-control.py)
+- 📦 [Script](https://github.com/dsperax/python/blob/main/computer-vision/projects/dinosaur-control.py)
 
 ### 📍 Coins Counter
 
-- 📦 [Script](https://github.com/lucasbivar/computer-vision/blob/main/projects/counting_coins.py)
+- 📦 [Script](https://github.com/dsperax/python/blob/main/computer-vision/projects/counting_coins.py)
 
 
 <hr> 
