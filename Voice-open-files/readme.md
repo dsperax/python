@@ -3,7 +3,8 @@
 Open your terminus:
 
 Make sure you have python installed:
-````
+
+```
 py -v
 ```
 
