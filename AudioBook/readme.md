@@ -3,7 +3,7 @@
 ## Explicação do código
 <hr>
 
-Para preparar o ambiente, sertifique-se de ter o python instalado e execute no prompt de comando o comando abaixo para instalar as bibliotecas utilizadas:
+Para preparar o ambiente, certifique-se de ter o python instalado e execute no prompt de comando o comando abaixo para instalar as bibliotecas utilizadas:
 
 ```
 pip install pyttsx3 pdfplumber PyPDF2
