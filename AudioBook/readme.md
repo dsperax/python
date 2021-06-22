@@ -57,6 +57,6 @@ for i in range(0, pages):
 ## OBS:
 <hr>
 
-* Em ``` for i in range(0,pages) ``` o numero 0 representa a pagina que o leitor irá começar. No programa audioBook.py nesse repositório optei por putar o indice e comecei na página 2.
+* Em ``` for i in range(0,pages) ``` o numero 0 representa a pagina que o leitor irá começar. No programa audioBook.py nesse repositório optei por pular o indice e comecei na página 2.
 
 * A linha ``` print(text)``` é opcional: Caso queira ver o texto que será falado apenas.
