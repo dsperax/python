@@ -1,4 +1,4 @@
-# How to yse:
+# How to use:
 
 The folder has googletrans lib, but if you need install just:
 
