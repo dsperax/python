@@ -6,6 +6,7 @@
 - [Text translator](https://github.com/dsperax/python/tree/main/text-translate)
 - [Voice assistant (jarvinho)](https://github.com/dsperax/python/tree/main/jarvinho)
 - [PDF -> Translate -> Audiobook](https://github.com/dsperax/python/tree/main/audiobook-translater)
+- [PNG img -> Cartoon](https://github.com/dsperax/python/tree/main/fotoToCartoon)
 
 <hr>
 
